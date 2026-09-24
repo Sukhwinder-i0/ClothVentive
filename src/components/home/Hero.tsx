@@ -17,7 +17,7 @@ export function Hero() {
         className="absolute inset-0 z-0"
       >
         <Image
-          src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=2000&q=85"
+          src="/images/hero.jpg"
           alt="ClothVentive Spring Summer 2026 Campaign"
           fill
           priority

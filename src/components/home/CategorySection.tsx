@@ -10,25 +10,25 @@ const CATEGORIES = [
     title: 'MEN',
     subtitle: 'Tailored drape & utilitarian layers',
     href: '/men',
-    image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85',
+    image: '/images/categories/cat-men.jpg',
   },
   {
     title: 'WOMEN',
     subtitle: 'Fluid proportions & sculpted cuts',
     href: '/women',
-    image: 'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85',
+    image: '/images/categories/cat-women.jpg',
   },
   {
     title: 'NEW ARRIVALS',
     subtitle: 'Spring / Summer 2026 debut releases',
     href: '/new-arrivals',
-    image: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85',
+    image: '/images/categories/cat-new-arrivals.jpg',
   },
   {
     title: 'COLLECTIONS',
     subtitle: 'Curated thematic wardrobes',
     href: '/collections',
-    image: 'https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?auto=format&fit=crop&w=1200&q=85',
+    image: '/images/categories/cat-collections.jpg',
   },
 ];
 

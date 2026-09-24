@@ -9,7 +9,7 @@ import { ArrowRight } from 'lucide-react';
 const EDITORIAL_SPREADS = [
   {
     type: 'full',
-    image: 'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=2000&q=85',
+    image: '/images/hero.jpg',
     caption: 'PLATE 01 — SPRING EQUINOX',
     title: 'The Architecture of Drape',
     quote: 'Garments should never impose rigid geometry on the body. Instead, the cut must respond to movement, yielding when walking and resting with absolute stillness.',
@@ -17,22 +17,22 @@ const EDITORIAL_SPREADS = [
   },
   {
     type: 'duo',
-    imageLeft: 'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85',
-    imageRight: 'https://images.unsplash.com/photo-1525450824786-227cbef70703?auto=format&fit=crop&w=1200&q=85',
+    imageLeft: '/images/categories/cat-new-arrivals.jpg',
+    imageRight: '/images/products/wide-leg-trousers.jpg',
     captionLeft: 'PLATE 02 — TAILORED FORM',
     captionRight: 'PLATE 03 — MERINO REFINEMENT',
     text: 'A tactile dialogue between raw structured outerwear and ultra-fine cashmere-merino spun yarn. Every proportion is tested in motion before cutting.',
   },
   {
     type: 'portrait-text',
-    image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85',
+    image: '/images/men-hero.jpg',
     caption: 'PLATE 04 — NOCTURNAL SHIFT',
     title: 'Unstructured Formality',
     body: 'The single-breasted blazer stripped of rigid canvassing. Shoulders are natural, chests softly sculpted, and trousers cut with deep double inverted pleats that billow subtly against the evening wind.',
   },
   {
     type: 'landscape',
-    image: 'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1800&q=85',
+    image: '/images/women-hero.jpg',
     caption: 'PLATE 05 — THE SUMMER HORIZON',
     title: 'Normandy Flax & Liquid Cupro',
     quote: 'In extreme temperatures, true luxury is weightlessness. We calibrate our summer textiles to float effortlessly above the skin.',
@@ -41,17 +41,17 @@ const EDITORIAL_SPREADS = [
     type: 'trio',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=85',
+        url: '/images/products/essential-tee.jpg',
         title: 'Heavyweight Studio Tee',
         desc: '300 GSM combed cotton',
       },
       {
-        url: 'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=900&q=85',
+        url: '/images/products/wide-leg-trousers.jpg',
         title: 'Architectural Trousers',
         desc: 'Double inverted pleat',
       },
       {
-        url: 'https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=900&q=85',
+        url: '/images/categories/cat-men.jpg',
         title: 'Utility Field Jacket',
         desc: 'Japanese water-repellent twill',
       },

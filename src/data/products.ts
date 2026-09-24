@@ -11,10 +11,10 @@ export const products: Product[] = [
     compareAtPrice: 2990,
     description: 'Constructed from combed 300 GSM organic cotton, the Essential Heavyweight Tee offers a clean, architectural drape with a subtle drop-shoulder fit. Pre-shrunk and garment-washed for a matte, broken-in feel from day one.',
     images: [
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/essential-heavyweight-tee-1.jpg',
+      '/images/products/essential-heavyweight-tee-2.jpg',
+      '/images/products/essential-heavyweight-tee-3.jpg',
+      '/images/products/essential-heavyweight-tee-4.jpg',
     ],
     colors: [
       { name: 'Chalk White', hex: '#F4F2EC' },
@@ -48,10 +48,10 @@ export const products: Product[] = [
     compareAtPrice: 4790,
     description: 'A contemporary take on traditional tailoring. Cut with a generous chest and subtle curvature along the hem, woven from two-ply Egyptian cotton with a distinctive basketweave texture.',
     images: [
-      'https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1508427953056-b00b8d78ebf5?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/relaxed-oxford-shirt-1.jpg',
+      '/images/products/relaxed-oxford-shirt-2.jpg',
+      '/images/products/relaxed-oxford-shirt-3.jpg',
+      '/images/products/relaxed-oxford-shirt-4.jpg',
     ],
     colors: [
       { name: 'Crisp White', hex: '#FFFFFF' },
@@ -81,10 +81,10 @@ export const products: Product[] = [
     price: 5490,
     description: 'An indispensable transition layer. Tailored from heavy cotton-twill with clean utility patch pockets and a streamlined collar that layers effortlessly over knitwear or standard tees.',
     images: [
-      'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/structured-overshirt-1.jpg',
+      '/images/products/structured-overshirt-2.jpg',
+      '/images/products/structured-overshirt-3.jpg',
+      '/images/products/structured-overshirt-4.jpg',
     ],
     colors: [
       { name: 'Stone Taupe', hex: '#A89F91' },
@@ -117,10 +117,10 @@ export const products: Product[] = [
     compareAtPrice: 5990,
     description: 'Cut with high-rise waist and double inverted front pleats that cascade into a wide, architectural leg. Made with fluid wool-blend drape that catches movement effortlessly.',
     images: [
-      'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/wide-leg-trousers-1.jpg',
+      '/images/products/wide-leg-trousers-2.jpg',
+      '/images/products/wide-leg-trousers-3.jpg',
+      '/images/products/wide-leg-trousers-4.jpg',
     ],
     colors: [
       { name: 'Oatmeal', hex: '#DED6C9' },
@@ -151,10 +151,10 @@ export const products: Product[] = [
     price: 5990,
     description: 'Spun from breathable Merino wool and cashmere yarn, providing featherweight warmth without bulk. Features a gently relaxed crew neckline and ribbed micro-finishes.',
     images: [
-      'https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1525450824786-227cbef70703?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/everyday-knit-1.jpg',
+      '/images/products/everyday-knit-2.jpg',
+      '/images/products/everyday-knit-3.jpg',
+      '/images/products/everyday-knit-4.jpg',
     ],
     colors: [
       { name: 'Bone White', hex: '#EDE8DF' },
@@ -185,10 +185,10 @@ export const products: Product[] = [
     compareAtPrice: 4290,
     description: 'Woven from airy French Normandy flax linen. Features an understated band collar, French placket, and breezy cut designed for warm days and coastal evenings.',
     images: [
-      'https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1508427953056-b00b8d78ebf5?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/minimal-linen-shirt-1.jpg',
+      '/images/products/minimal-linen-shirt-2.jpg',
+      '/images/products/minimal-linen-shirt-3.jpg',
+      '/images/products/minimal-linen-shirt-4.jpg',
     ],
     colors: [
       { name: 'Natural Sand', hex: '#DDD5C7' },
@@ -219,10 +219,10 @@ export const products: Product[] = [
     price: 4490,
     description: 'No strings, no unnecessary hardware. Pure heavyweight looped French terry with double-layered hood that maintains its sculpture whether worn up or resting flat.',
     images: [
-      'https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/signature-hoodie-1.jpg',
+      '/images/products/signature-hoodie-2.jpg',
+      '/images/products/signature-hoodie-3.jpg',
+      '/images/products/signature-hoodie-4.jpg',
     ],
     colors: [
       { name: 'Washed Charcoal', hex: '#2A2A2A' },
@@ -253,10 +253,10 @@ export const products: Product[] = [
     compareAtPrice: 6290,
     description: 'Merging the formality of bespoke tailoring with the ease of loungewear. Made with a concealed elasticated back waistband and crisp single front crease.',
     images: [
-      'https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/tailored-relaxed-pants-1.jpg',
+      '/images/products/tailored-relaxed-pants-2.jpg',
+      '/images/products/tailored-relaxed-pants-3.jpg',
+      '/images/products/tailored-relaxed-pants-4.jpg',
     ],
     colors: [
       { name: 'Deep Black', hex: '#111111' },
@@ -286,10 +286,10 @@ export const products: Product[] = [
     price: 1890,
     description: 'An elevated basic engineered with 2x2 stretch micro-ribbing. High crew neckline and clean armholes designed to conceal bra straps effortlessly.',
     images: [
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/ribbed-tank-1.jpg',
+      '/images/products/ribbed-tank-2.jpg',
+      '/images/products/ribbed-tank-3.jpg',
+      '/images/products/ribbed-tank-4.jpg',
     ],
     colors: [
       { name: 'Optic White', hex: '#FFFFFF' },
@@ -320,10 +320,10 @@ export const products: Product[] = [
     compareAtPrice: 3490,
     description: 'A buttonless open Johnny collar gives this polo an effortless, laid-back refinement. Knitted from breathable cotton-modal jersey with a silk-like touch.',
     images: [
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/essential-polo-1.jpg',
+      '/images/products/essential-polo-2.jpg',
+      '/images/products/essential-polo-3.jpg',
+      '/images/products/essential-polo-4.jpg',
     ],
     colors: [
       { name: 'Ivory Cream', hex: '#F3EFE6' },
@@ -354,10 +354,10 @@ export const products: Product[] = [
     compareAtPrice: 9490,
     description: 'A modern architectural field jacket crafted from water-repellent Japanese dense nylon-cotton blend. Features hidden snap storm placket and articulated sleeves.',
     images: [
-      'https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/utility-jacket-1.jpg',
+      '/images/products/utility-jacket-2.jpg',
+      '/images/products/utility-jacket-3.jpg',
+      '/images/products/utility-jacket-4.jpg',
     ],
     colors: [
       { name: 'Obsidian Black', hex: '#161616' },
@@ -388,10 +388,10 @@ export const products: Product[] = [
     price: 4690,
     description: 'Milled from 13.5oz vintage Japanese shuttle-loom selvedge denim. Mid-rise with a clean, continuous straight leg that breaks gracefully over boots or sneakers.',
     images: [
-      'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/straight-denim-1.jpg',
+      '/images/products/straight-denim-2.jpg',
+      '/images/products/straight-denim-3.jpg',
+      '/images/products/straight-denim-4.jpg',
     ],
     colors: [
       { name: 'Raw Indigo', hex: '#1A2436' },
@@ -422,10 +422,10 @@ export const products: Product[] = [
     compareAtPrice: 10990,
     description: 'An unstructured single-breasted blazer with sharp peak lapels and a softly padded natural shoulder. Effortlessly pairs over tailored trousers or vintage denim.',
     images: [
-      'https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/relaxed-blazer-1.jpg',
+      '/images/products/relaxed-blazer-2.jpg',
+      '/images/products/relaxed-blazer-3.jpg',
+      '/images/products/relaxed-blazer-4.jpg',
     ],
     colors: [
       { name: 'Black Onyx', hex: '#121212' },
@@ -457,10 +457,10 @@ export const products: Product[] = [
     price: 2290,
     description: 'A lighter counterpart to our heavyweight tee. 220 GSM high-twist jersey offers fluid drape and maximum breathability for active studio work and daily rotation.',
     images: [
-      'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/studio-tee-1.jpg',
+      '/images/products/studio-tee-2.jpg',
+      '/images/products/studio-tee-3.jpg',
+      '/images/products/studio-tee-4.jpg',
     ],
     colors: [
       { name: 'Raw Bone', hex: '#F0EBE1' },
@@ -490,10 +490,10 @@ export const products: Product[] = [
     price: 4890,
     description: 'Designed in fluid Lyocell-linen blend. Delivers a draped, softly tailored shape that layers effortlessly over dresses, swimwear, or structured bottoms.',
     images: [
-      'https://images.unsplash.com/photo-1508427953056-b00b8d78ebf5?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/lightweight-overshirt-1.jpg',
+      '/images/products/lightweight-overshirt-2.jpg',
+      '/images/products/lightweight-overshirt-3.jpg',
+      '/images/products/lightweight-overshirt-4.jpg',
     ],
     colors: [
       { name: 'Sand Taupe', hex: '#C8BEB2' },
@@ -524,10 +524,10 @@ export const products: Product[] = [
     compareAtPrice: 3990,
     description: 'The definitive daily crewneck sweater. Crafted from compact loopback cotton with triangle collar v-insert and vintage athletic flatlock seam details.',
     images: [
-      'https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1525450824786-227cbef70703?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/essential-crewneck-1.jpg',
+      '/images/products/essential-crewneck-2.jpg',
+      '/images/products/essential-crewneck-3.jpg',
+      '/images/products/essential-crewneck-4.jpg',
     ],
     colors: [
       { name: 'Heather Stone', hex: '#B8B5AD' },
@@ -558,10 +558,10 @@ export const products: Product[] = [
     compareAtPrice: 7990,
     description: 'A liquid-like bias-cut midi dress that gently skims curves before flaring softly toward an ankle-skimming hem. Clean square neckline and delicate rouleau straps.',
     images: [
-      'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/silk-touch-midi-dress-1.jpg',
+      '/images/products/silk-touch-midi-dress-2.jpg',
+      '/images/products/silk-touch-midi-dress-3.jpg',
+      '/images/products/silk-touch-midi-dress-4.jpg',
     ],
     colors: [
       { name: 'Champagne Sand', hex: '#D6C7B2' },
@@ -592,10 +592,10 @@ export const products: Product[] = [
     price: 7490,
     description: 'Contemporary two-piece set pairing a sculpted fitted waistcoat with matching mid-rise straight trousers. Finished with covered buttons and clean structural welt pockets.',
     images: [
-      'https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1550614000-4895a10e1bfd?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1200&q=85',
-      'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1200&q=85',
+      '/images/products/tailored-waistcoat-set-1.jpg',
+      '/images/products/tailored-waistcoat-set-2.jpg',
+      '/images/products/tailored-waistcoat-set-3.jpg',
+      '/images/products/tailored-waistcoat-set-4.jpg',
     ],
     colors: [
       { name: 'Cream Bone', hex: '#EBE5D8' },

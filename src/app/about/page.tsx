@@ -45,7 +45,7 @@ export default function AboutPage() {
           <div className="lg:col-span-6">
             <div className="relative aspect-[4/5] bg-[#EBE5DB] border border-[#E8E3DA] overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=85"
+                src="/images/women-hero.jpg"
                 alt="ClothVentive Atelier Philosophy"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -60,7 +60,7 @@ export default function AboutPage() {
           <div className="lg:col-span-6 order-2 lg:order-1">
             <div className="relative aspect-square sm:aspect-[4/3] bg-[#EBE5DB] border border-[#E8E3DA] overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1525450824786-227cbef70703?auto=format&fit=crop&w=1200&q=85"
+                src="/images/products/wide-leg-trousers.jpg"
                 alt="Tactile textile closeup"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -130,7 +130,7 @@ export default function AboutPage() {
         <div className="space-y-6">
           <div className="relative w-full h-[50vh] sm:h-[65vh] bg-[#EBE5DB] border border-[#E8E3DA] overflow-hidden">
             <Image
-              src="https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?auto=format&fit=crop&w=1800&q=85"
+              src="/images/categories/cat-collections.jpg"
               alt="ClothVentive Atelier Workshop"
               fill
               sizes="100vw"

@@ -78,7 +78,7 @@ export function EditorialStory() {
         <div className="lg:col-span-6 relative">
           <div className="relative aspect-[4/5] bg-[#EBE5DB] border border-[#E8E3DA] overflow-hidden ml-auto w-full max-w-md lg:max-w-none">
             <Image
-              src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=85"
+              src="/images/editorial-story.jpg"
               alt="Model posing in ClothVentive tailored collection"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
@@ -89,7 +89,7 @@ export function EditorialStory() {
           {/* Overlapping Detail Cutout */}
           <div className="hidden sm:block absolute -bottom-8 -left-8 w-48 h-60 bg-[#DED6CA] border border-[#E8E3DA] overflow-hidden z-10">
             <Image
-              src="https://images.unsplash.com/photo-1525450824786-227cbef70703?auto=format&fit=crop&w=800&q=85"
+              src="/images/editorial-detail.jpg"
               alt="Textile close up texture"
               fill
               sizes="200px"

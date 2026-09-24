@@ -10,7 +10,7 @@ export default function NotFound() {
         {/* Left: 404 Fashion Visual (5 cols) */}
         <div className="md:col-span-5 relative aspect-[3/4] bg-[#EBE5DB] border border-[#E8E3DA] overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=85"
+            src="/images/men-hero.jpg"
             alt="ClothVentive 404 Not Found"
             fill
             priority

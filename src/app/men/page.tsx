@@ -27,7 +27,7 @@ export default function MenPage() {
       {/* Editorial Men Hero Banner */}
       <div className="relative w-full h-[55vh] sm:h-[65vh] min-h-[420px] bg-[#EBE5DB] flex items-end pb-12 sm:pb-16 px-4 sm:px-6 lg:px-12 overflow-hidden border-b border-[#E8E3DA]">
         <Image
-          src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1800&q=85"
+          src="/images/men-hero.jpg"
           alt="ClothVentive Men Editorial"
           fill
           priority

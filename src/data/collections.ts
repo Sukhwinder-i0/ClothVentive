@@ -8,8 +8,8 @@ export const collections: CollectionInfo[] = [
     subtitle: 'Quiet pieces. Strong foundations.',
     tagline: 'Permanent Wardrobe Foundation',
     description: 'Archival tees, refined loopback knits, and architectural trousers cut from heavyweight natural fibers. Designed to exist beyond passing seasons and serve as the backbone of everyday dressing.',
-    image: 'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=85',
-    heroImage: 'https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?auto=format&fit=crop&w=1800&q=85',
+    image: '/images/categories/cat-new-arrivals.jpg',
+    heroImage: '/images/hero.jpg',
     season: 'Continuous Archive',
   },
   {
@@ -19,8 +19,8 @@ export const collections: CollectionInfo[] = [
     subtitle: 'Refined silhouettes for evenings.',
     tagline: 'Nocturnal Tailoring & Fluid Drapery',
     description: 'Bespoke tailoring reinterpreted for modern twilight. Liquid cupro slip dresses, unstructured virgin wool blazers, and deep midnight hues engineered with understated confidence.',
-    image: 'https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85',
-    heroImage: 'https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1800&q=85',
+    image: '/images/women-hero.jpg',
+    heroImage: '/images/categories/cat-women.jpg',
     season: 'Autumn / Winter Edition',
   },
   {
@@ -30,8 +30,8 @@ export const collections: CollectionInfo[] = [
     subtitle: 'Designed for movement.',
     tagline: 'Ergonomic Silhouettes & Utilitarian Textures',
     description: 'A study in mobility and structure. Water-repellent technical outerwear, relaxed drop-shoulder overshirts, and articulated trousers crafted for seamless transition from studio to transit.',
-    image: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1200&q=85',
-    heroImage: 'https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1800&q=85',
+    image: '/images/men-hero.jpg',
+    heroImage: '/images/categories/cat-men.jpg',
     season: 'All-Terrain Wardrobe',
   },
   {
@@ -41,8 +41,8 @@ export const collections: CollectionInfo[] = [
     subtitle: 'Lightweight textures and relaxed proportions.',
     tagline: 'Warm-Climate Breathability',
     description: 'Featherweight Normandy flax linen, airy cotton-modal open-collar polos, and fluid tunic shirts calibrated for effortless sunlit living and humid summer evenings.',
-    image: 'https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1200&q=85',
-    heroImage: 'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1800&q=85',
+    image: '/images/categories/cat-men.jpg',
+    heroImage: '/images/categories/cat-collections.jpg',
     season: 'Spring / Summer 2026',
   },
 ];

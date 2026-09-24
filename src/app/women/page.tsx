@@ -30,7 +30,7 @@ export default function WomenPage() {
       {/* Editorial Women Hero Banner */}
       <div className="relative w-full h-[55vh] sm:h-[65vh] min-h-[420px] bg-[#EBE5DB] flex items-end pb-12 sm:pb-16 px-4 sm:px-6 lg:px-12 overflow-hidden border-b border-[#E8E3DA]">
         <Image
-          src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1800&q=85"
+          src="/images/women-hero.jpg"
           alt="ClothVentive Women Editorial"
           fill
           priority
