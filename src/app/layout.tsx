@@ -59,6 +59,11 @@ export const metadata: Metadata = {
       'Contemporary clothing label focused on refined silhouettes, premium materials, modern essentials, and effortless everyday fashion.',
     images: ['https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1200&q=85'],
   },
+  icons: {
+    icon: '/icon.svg',
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
+  },
 };
 
 export default function RootLayout({
